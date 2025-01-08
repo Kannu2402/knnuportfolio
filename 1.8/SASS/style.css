@@ -1,0 +1,21 @@
+.social-icons {
+  text-align: center;
+}
+
+.fa-square-twitter {
+  font-size: 70px;
+  color: rgb(8, 113, 154);
+  margin: 0 10px;
+}
+
+.fa-square-instagram {
+  font-size: 70px;
+  color: rgb(235, 19, 131);
+  margin: 0 10px;
+}
+
+.fa-facebook {
+  font-size: 70px;
+  color: rgb(86, 86, 200);
+  margin: 0 10px;
+}/*# sourceMappingURL=style.css.map */

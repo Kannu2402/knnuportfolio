@@ -1,0 +1,30 @@
+$zero:0px;
+$fs:70px;
+
+@function half($kp){
+    @return $kp/2
+  }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .fa-square-twitter {
+        font-size: $fs;
+        color: rgb(8, half(226), 154);
+        margin: $zero 10px;
+    }
+
+    .fa-square-instagram {
+        font-size: $fs;
+        color: rgb(235, 19, half(262));
+        margin: $zero 10px;
+    }
+
+    .fa-facebook {
+        font-size: $fs;
+        color: rgb(86, 86, half(400));
+        margin: $zero 10px;
+    }
+
+
